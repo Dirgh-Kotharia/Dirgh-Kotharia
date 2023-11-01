@@ -24,10 +24,10 @@ I am a Cloud Computing and Cyber-Security Enthusiast.
 <br />
 <br />
 
-## 📖 Things that I like in Tech:
+## 📖 Things I am passionate about:
 - Automation development using **Python, Bash, Java, JavaScript**.
 - CTF competition like **HackTheBox, PicoCTF**.
-- Customizing **Linux Desktop Environments**.
+- **Linux Administration**.
 - Newly discovered **Vulnerability**
 - Devloping deployment automation using **Terraform, Ansible**
 - **Cloud Security** tools
