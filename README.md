@@ -28,9 +28,9 @@ I am a Cloud Computing and Cyber-Security Enthusiast.
 - Automation development using **Python, Bash, Java, JavaScript**.
 - CTF competition like **HackTheBox, PicoCTF**.
 - **Linux Administration**.
-- Newly discovered **Vulnerability**
-- Devloping deployment automation using **Terraform, Ansible**
-- **Cloud Security** tools
+- Discussing about newly discovered **Vulnerability**
+- Developing deployment automation using **Terraform, Ansible**
+- **Cloud Security tools**
 - Creating scalable cloud architecture using **AWS Cloud, GCP**.
 
 
