@@ -17,7 +17,7 @@ I am a Cloud Computing and Cyber-Security Enthusiast.
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="./logos/terraform.svg" />
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="./logos/ansible.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="./logos/docker.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="./logos/aws-cloud.svg" />
+<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="./logos/aws-cloud.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="./logos/azure.svg" />
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="./logos/google-cloud.svg" />
 <br />
