@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello, I am Dirgh Kotharia</h1>
 <h3 align="center">A Cloud Technology and Cybersecurity Enthusiast</h3>
+<br />
 
 ## 🧰 Languages and Tools
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="./logos/aws-cloud.svg"/></a>
@@ -17,6 +18,7 @@
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="./logos/kubernetes.svg"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./logos/git.svg"/></a>
 <br />
+<br />
 
 
 ## 📖 Things I am passionate about:
@@ -26,6 +28,7 @@
 - Developing deployment automation using **Terraform, Ansible**
 - **Cloud Security tools**
 - Creating scalable cloud architecture using **AWS Cloud, GCP**
+<br />
 
 ## 📊 Stats
 
