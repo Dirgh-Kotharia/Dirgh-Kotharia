@@ -14,21 +14,20 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="./logos/terraform.svg"/></a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="./logos/ansible.svg"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="./logos/docker.svg"/></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="./logos/kubernetes.svg"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./logos/git.svg"/></a>
 <br />
 
 
 ## 📖 Things I am passionate about:
-- Automation development using **Python, Bash, Java, JavaScript**.
-- CTF competition like **HackTheBox, PicoCTF**.
-- **Linux Administration**.
-- Discussing about newly discovered **Vulnerability**
+- Automation development using **Python, Bash, Java, JavaScript**
+- CTF competition like **HackTheBox, PicoCTF**
+- **Linux Administration**
 - Developing deployment automation using **Terraform, Ansible**
 - **Cloud Security tools**
-- Creating scalable cloud architecture using **AWS Cloud, GCP**.
+- Creating scalable cloud architecture using **AWS Cloud, GCP**
 
-## 📊 Stat
+## 📊 Stats
 
 <p><a href="" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dirgh-kotharia&show_icons=true&locale=en&layout=compact&theme=radical" alt="dirgh-kotharia" /></p>
 
