@@ -3,7 +3,7 @@
 <br />
 
 ## 🧰 Languages and Tools
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="./logos/aws-cloud.svg"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="./logos/aws.svg"/></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="./logos/azure.svg"/></a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="./logos/google-cloud.svg"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="./logos/linux.svg"/></a>
