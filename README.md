@@ -19,7 +19,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./logos/git.svg"/></a>
 <br />
 <br />
-
+<br />
 
 ## 📖 Things I am passionate about:
 - Automation development using **Python, Bash, Java, JavaScript**
