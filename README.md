@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I am Dirgh Kotharia</h1>
 <h3 align="center">A Cloud Technology and Cybersecurity Enthusiast</h3>
-<br />
+
 
 ## 🖥️ Technology and Tools
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="./logos/linux.svg"/></a>
@@ -41,7 +41,7 @@
 - Developing deployment automation using **Terraform, Ansible**
 - **Cloud Security tools**
 - Creating scalable cloud architecture using **AWS Cloud, GCP**
-<br />
+
 
 ## 📊 Stats
 <p><a href="" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dirgh-kotharia&show_icons=true&locale=en&layout=compact&theme=radical" alt="dirgh-kotharia" /></p>
