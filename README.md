@@ -36,6 +36,7 @@
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img align="left" alt="MongoDB" width="30px" style="padding-right:10px;padding-bottom:10px;" src="./logos/nodejs.svg"/></a>
 <br />
 <br />
+<br />
 
 ## 📖 Things I am passionate about:
 - Automation development using **Python, Bash, Java, JavaScript**
