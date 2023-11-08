@@ -31,6 +31,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="./logos/sql.svg"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="./logos/postgresql.svg"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="./logos/mongodb.svg"/></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="./logos/nodejs.svg"/></a>
 <br />
 <br />
 
