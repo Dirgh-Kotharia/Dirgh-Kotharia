@@ -22,6 +22,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px; " src="./logos/javascript.svg"/></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img align="left" alt="PHP" width="30px" style="padding-right:10px; " src="./logos/php.svg"/></a>
 <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img align="left" alt="Perl" width="30px" style="padding-right:10px; " src="./logos/perl.svg"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img align="left" alt="C" width="30px" style="padding-right:10px; " src="./logos/C.svg"/></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img align="left" alt="C++" width="30px" style="padding-right:10px; " src="./logos/cplusplus.svg"/></a>
 <br />
 <br />
 
