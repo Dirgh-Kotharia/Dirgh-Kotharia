@@ -18,10 +18,8 @@
 ## 🧰 Languages
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img align="left" alt="Python" width="30px" style="padding-right:10px; " src="./logos/python.svg"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img align="left" alt="Python" width="30px" style="padding-right:10px; " src="./logos/bash.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px; " src="./logos/javascript.svg"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img align="left" alt="Java" width="30px" style="padding-right:10px; " src="./logos/java.svg"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img align="left" alt="C" width="30px" style="padding-right:10px; " src="./logos/C.svg"/></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img align="left" alt="C++" width="30px" style="padding-right:10px; " src="./logos/cplusplus.svg"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px; " src="./logos/javascript.svg"/></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img align="left" alt="PHP" width="30px" style="padding-right:10px; " src="./logos/php.svg"/></a>
 <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img align="left" alt="Perl" width="30px" style="padding-right:10px; " src="./logos/perl.svg"/></a>
 <br />
