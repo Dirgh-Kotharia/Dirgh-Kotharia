@@ -34,13 +34,13 @@
 <br />
 <br />
 
-## 📖 Things I am passionate about:
-- Automation development using **Python, Bash, Java, JavaScript**
-- CTF competition like **HackTheBox, PicoCTF**
+## 📖 Topics I like to Work on
+- Automation development using **Python, Bash**
+- CTF challenges like **HackTheBox, PicoCTF**
 - **Linux Administration**
 - Developing deployment automation using **Terraform, Ansible**
 - **Cloud Security tools**
-- Creating scalable cloud architecture using **AWS Cloud, GCP**
+- Creating scalable cloud architecture design on **AWS Cloud, GCP**
 
 
 ## 📊 Stats
