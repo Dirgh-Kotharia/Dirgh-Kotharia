@@ -42,7 +42,7 @@
 - **Cloud Security tools**
 - Creating scalable cloud architecture design on **AWS Cloud, GCP**
 
-## Current Projects
+## 🚧 Current Ongoing Projects
 - Learning **Rust**
 - **Advent Of Code**
 
