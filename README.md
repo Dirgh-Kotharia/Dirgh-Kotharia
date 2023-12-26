@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I am Dirgh Kotharia</h1>
+I'm<h1 align="center">👋 Hello, I am Dirgh Kotharia</h1>
 <h3 align="center">A Cloud Technology and Cybersecurity Enthusiast</h3>
 
 
@@ -50,3 +50,10 @@
 <p><a href="" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dirgh-Kotharia&show_icons=true&locale=en&layout=compact&theme=radical" alt="dirgh-kotharia" /></p>
 
 <p><a href="" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dirgh-Kotharia&theme=dark&hide_total_contributions=true&disable_animations=true" alt="Dirgh-Kotharia" /></p>
+
+
+
+
+
+
+
