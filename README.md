@@ -44,7 +44,7 @@
 
 ## 🚧 Current Ongoing Projects
 - Learning **Rust**
-- **Advent Of Code** (writeup coming soon)
+- **Advent Of Code** (writeup in progress - Rust Version)
 
 ## 📊 Stats
 <p><a href="" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dirgh-Kotharia&show_icons=true&locale=en&layout=compact&theme=radical" alt="dirgh-kotharia" /></p>
